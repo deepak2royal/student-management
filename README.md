@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Management System — React + Spring Boot + PostgreSQL
 
 A ready-to-run CRUD starter project.
@@ -84,3 +85,7 @@ Student table schema is managed by Hibernate (`spring.jpa.hibernate.ddl-auto=upd
 - If `mvn` is not found, install Maven or open the project in an IDE and run `StudentManagementApplication`.
 - If `npm` is not found, install Node.js LTS.
 - First Maven/npm runs need internet access to download dependencies.
+=======
+# student-management
+Student details
+>>>>>>> 63fc36a96795f39684598c2bfa254053b2141ad3
